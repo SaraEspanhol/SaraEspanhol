@@ -7,7 +7,7 @@ Passionate about technology and driven by new challenges. My hobbies are cars, g
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/saraespanhol/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0000)](https://github.com/SaraEspanhol)
+
 
 
 ## Habilidades
