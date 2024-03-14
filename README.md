@@ -12,7 +12,7 @@ Passionate about technology and driven by new challenges. My hobbies are cars, g
 
 ## Habilidades
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
- ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+ ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white
 )
 
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColors=fff) ![GitHub](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColors=fff)
